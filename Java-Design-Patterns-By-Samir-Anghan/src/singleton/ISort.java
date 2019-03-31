@@ -1,12 +1,9 @@
-/**
- * 
- */
 package singleton;
 
 import java.util.List;
 
 /**
- * @author Samir
+ * @author Samir Anghan
  *
  */
 public interface ISort<E> {

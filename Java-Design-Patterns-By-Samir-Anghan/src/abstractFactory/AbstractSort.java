@@ -1,12 +1,9 @@
-/**
- * 
- */
 package abstractFactory;
 
 import java.util.List;
 
 /**
- * @author Samir
+ * @author Samir Anghan
  *
  */
 public abstract class AbstractSort<E> {

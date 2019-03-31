@@ -1,12 +1,9 @@
-/**
- * 
- */
 package abstractFactory;
 
 import java.util.List;
 
 /**
- * @author Samir
+ * @author Samir Anghan
  *
  */
 public class InsertionSort<E> extends AbstractSort<E> implements ISort<E> {

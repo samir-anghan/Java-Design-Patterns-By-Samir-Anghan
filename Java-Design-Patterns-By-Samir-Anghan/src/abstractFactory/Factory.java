@@ -1,10 +1,7 @@
-/**
- * 
- */
 package abstractFactory;
 
 /**
- * @author Samir
+ * @author Samir Anghan
  *
  */
 public class Factory {
