@@ -1,0 +1,23 @@
+# Directories #
+/build/
+/bin/
+target/
+
+*.class
+ 
+# Package Files #
+*.jar
+
+######################
+# Eclipse
+######################
+ 
+.project
+.metadata
+bin/**
+local.properties
+.settings/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
